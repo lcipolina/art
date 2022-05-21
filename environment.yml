@@ -203,4 +203,3 @@ dependencies:
     - seaborn==0.11.2
     - sqlalchemy==1.4.35
     - timm==0.6.1
-prefix: D:\Anaconda\envs\tesi
