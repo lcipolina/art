@@ -1,2 +1,2 @@
 # art
-Art project with Bari University
+Art project with the University of Bari
