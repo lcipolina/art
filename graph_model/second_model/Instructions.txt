@@ -1,0 +1,2 @@
+Put these files in the root directory of the previous zip file that I sent you. (I can’t send you the entire file because I’m having some issues with google drive, since they reduced my space to 1.5GB, can you believe it?!)
+Execute test_image.ipynb , paying attention for example to the device  so, if you need, execute the code on your CPU.
